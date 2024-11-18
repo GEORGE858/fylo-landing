@@ -24,10 +24,6 @@
   
   .header .logo {
     font-size: 1.5em;
-    font-weight: bold;
-  }
-  
-  .header nav ul {
     display: flex;
     list-style: none;
   }
@@ -84,7 +80,7 @@
   .feature {
     flex-basis: 45%;
     max-width: 45%;
-    
+    margin: 20px 0;
     text-align: left;
   }
   
@@ -199,5 +195,4 @@
     color: #b3b8d4;
     margin: 0 10px;
     text-decoration: none;
-    font
   }
